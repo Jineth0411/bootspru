@@ -1,0 +1,999 @@
+<?xml version="1.0" standalone="yes" ?>
+
+<mm_report>
+	<mm_reportname>	ResultsReport.xml</mm_reportname>
+	<mm_reportdate>Sun Apr  2 15:51:09 2023</mm_reportdate>
+	<mm_reportlocation>C:\\Users\User1\Documents\dancestudio\</mm_reportlocation>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>7</mm_linenumber>
+		<mm_description><![CDATA[expected entity name for reference[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>7</mm_linenumber>
+		<mm_description><![CDATA[unterminated entity reference 'i'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>7</mm_linenumber>
+		<mm_description><![CDATA[entity 'i' not found[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>7</mm_linenumber>
+		<mm_description><![CDATA[attribute name expected[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>16</mm_linenumber>
+		<mm_description><![CDATA[expected entity name for reference[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>16</mm_linenumber>
+		<mm_description><![CDATA[unterminated entity reference 'parent.frames.length'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>16</mm_linenumber>
+		<mm_description><![CDATA[entity 'parent.frames.length' not found[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>18</mm_linenumber>
+		<mm_description><![CDATA[expected entity name for reference[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>18</mm_linenumber>
+		<mm_description><![CDATA[unterminated entity reference 'd.all'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>18</mm_linenumber>
+		<mm_description><![CDATA[entity 'd.all' not found[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>18</mm_linenumber>
+		<mm_description><![CDATA[expected entity name for reference[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>18</mm_linenumber>
+		<mm_description><![CDATA[unterminated entity reference 'i'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>18</mm_linenumber>
+		<mm_description><![CDATA[entity 'i' not found[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>18</mm_linenumber>
+		<mm_description><![CDATA[attribute name expected[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>28</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'd.forms.length'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>34</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>36</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>38</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>40</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>42</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>43</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'td'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>46</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>47</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>47</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'a'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>49</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>51</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>52</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>52</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'a'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>54</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>55</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>55</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'a'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>57</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>59</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>60</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'td'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>63</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>65</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>66</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'td'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>69</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>71</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>72</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'td'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>75</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>77</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>79</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>80</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'td'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>83</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>85</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>86</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'td'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>89</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>90</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>90</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'a'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>92</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>94</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>95</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'td'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>97</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>97</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'a'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>99</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>100</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>100</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'a'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>102</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>104</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>105</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'td'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>108</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>110</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>111</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'td'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>114</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>116</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>118</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>119</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'td'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>122</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>124</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>126</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>128</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>129</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'td'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>132</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>134</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>135</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'td'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>138</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>139</mm_linenumber>
+		<mm_description><![CDATA[unterminated entity reference 'enable'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>139</mm_linenumber>
+		<mm_description><![CDATA[entity 'enable' not found[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>139</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>139</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'a'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>140</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>140</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'a'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>141</mm_linenumber>
+		<mm_description><![CDATA[unterminated entity reference 'w'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>141</mm_linenumber>
+		<mm_description><![CDATA[entity 'w' not found[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>141</mm_linenumber>
+		<mm_description><![CDATA[unterminated entity reference 'q'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>141</mm_linenumber>
+		<mm_description><![CDATA[entity 'q' not found[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>141</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>141</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'a'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>143</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>144</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'td'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>147</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>149</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>150</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'td'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>153</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>155</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>157</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>159</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>160</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'td'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>163</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>165</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>166</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'td'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>169</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>171</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>173</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>175</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>177</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>179</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>181</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>183</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>185</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>187</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>189</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>191</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>193</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>195</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>197</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>199</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>201</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'img'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>203</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'td'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>204</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'td'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>206</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'td'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>207</mm_linenumber>
+		<mm_description><![CDATA[expected end of tag 'td'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+	<mm_reportitem>
+		<mm_statusicon>10</mm_statusicon>
+		<mm_displaystr><![CDATA[C:\Users\User1\Documents\pagina web jineth\index.html]]></mm_displaystr>
+		<mm_file>C:\Users\User1\Documents\pagina web jineth\index.html</mm_file>
+		<mm_linenumber>207</mm_linenumber>
+		<mm_description><![CDATA[input ended before all started tags were ended; last tag started is 'td'[xml]]]></mm_description>
+		<mm_reportedby>Informe del validador de Dreamweaver</mm_reportedby>
+	</mm_reportitem>
+</mm_report>
